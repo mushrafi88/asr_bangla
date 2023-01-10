@@ -1,2 +1,2 @@
 
-live Demo [Colab](https://colab.research.google.com/drive/1PqvSXCNpfoaPp_Nedr7XrLa5xAzQwtje?usp=sharing)
+live Demo [Huggingface](https://huggingface.co/mushrafi88/wav2vec2_xlsr_bn_lm)
